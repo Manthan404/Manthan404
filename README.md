@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, it's Manthan👋
+
+#Machine Learning Enthusiast | Business Developer | Data Visualizer  
+
+I thrive on tackling complex challenges and devising innovative solutions with a strong background in statistical analysis and machine learning, I possess the ability to dissect intricate datasets, identify patterns, and develop cutting-edge models to drive data-driven decision-making. 
+
+
+Reach me on:
+ - My profile on [LinkedIn](https://www.linkedin.com/in/manthan404/)
+ - My technical blogs on [Medium](https://medium.com/@manthan404)
+ - My Controbution in Data science on [Kaggle](https://www.kaggle.com/manthan404)
 
 <!--
 **Manthan404/Manthan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
