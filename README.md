@@ -1,6 +1,6 @@
 ### Hi there, it's Manthan👋
 
-#Machine Learning Enthusiast | Business Developer | Data Visualizer  
+Machine Learning Enthusiast | Business Developer | Data Visualizer  
 
 I thrive on tackling complex challenges and devising innovative solutions with a strong background in statistical analysis and machine learning, I possess the ability to dissect intricate datasets, identify patterns, and develop cutting-edge models to drive data-driven decision-making. 
 
